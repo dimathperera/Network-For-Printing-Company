@@ -8,11 +8,7 @@
   Performance: Layer 3 switching and EIGRP routing
   Monitoring: Integrated CCTV and network monitoring
 
-# Project team
-  Sandhil PereraCODNE21.3F-035
-  Dileepa BhakthiCODNE21.3F-010
-  Dimath PereraCODNE21.3F-036
-  A.N. PeirisCODNE21.3F-014
+
 
 # Technology Used
   PAT (Port Address Translation): IP address conservation
