@@ -1,4 +1,4 @@
-# This is My Diploma Final Year Network Engineering Group project that was created a Network Architecture for a printing company,
+# This is My Diploma Final Year Network Engineering Group project that was created a Network Architecture for a printing company.
  The Education Publication Department is a major governmental organization responsible for publishing textbooks for all grades in government schools. This project implements a modern, scalable network infrastructure to connect 500+ devices across 12 departments in a 5-floor building.
 
 # Key Features
