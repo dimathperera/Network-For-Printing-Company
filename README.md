@@ -8,8 +8,10 @@
   Performance: Layer 3 switching and EIGRP routing
 
 # Technology Used
-  VLAN: Network segmentation and security
-  DHCP: Automatic IP assignment
+  VLAN: Network segmentation and security  
+ 
+  DHCP: Automatic IP assignment  
+  
   HSRP: Router redundancy and high availability
   EtherChannel: Link aggregation and fault tolerance
   VTP: VLAN management
