@@ -4,19 +4,14 @@
 # Key Features
   Scalability: Supports 500+ users with room for growth
   Redundancy: HSRP for high availability
-  Security: VLANs, ACLs, and DMZ implementation
+  Security: VLANs, ACLs and SSH  implementation
   Performance: Layer 3 switching and EIGRP routing
-  Monitoring: Integrated CCTV and network monitoring
-
-
 
 # Technology Used
-  PAT (Port Address Translation): IP address conservation
   VLAN: Network segmentation and security
   DHCP: Automatic IP assignment
   HSRP: Router redundancy and high availability
   EtherChannel: Link aggregation and fault tolerance
-  STP: Loop prevention
   VTP: VLAN management
   EIGRP: Dynamic routing protocol
   ACL: Access control and security
