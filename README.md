@@ -6,7 +6,7 @@
   
   Redundancy: HSRP for high availability  
   
-  Security: VLANs, ACLs and SSH  implementation  
+  Security: segmented by VLANs
   
   Performance: Layer 3 switching and EIGRP routing
 
@@ -23,6 +23,5 @@
   
   EIGRP: Dynamic routing protocol  
   
-  ACL: Access control and security
 
 
